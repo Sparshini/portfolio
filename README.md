@@ -30,28 +30,28 @@ Malnad College of Engineering, Hassan
 •	Microsoft Visio
 
 ### Projects
-1. Retail - Customer Segmentation using RFM analysis 
-    https://github.com/Sparshini/Retail-Unsupervised-MLmodel 
-•	Performed a preliminary data inspection and Data cleaning.
-•	Cohort Analysis – Created monthly cohorts and analyzed active customers and analyzed the retention rate of customers.
-•	Built RFM model and segmented RFM based on scoring by dividing them into quartiles.
-•	Built Clusters using K means clustering.
-•	Prepared the dashboard using Tableau.
+#### Retail - Customer Segmentation using RFM analysis
+https://github.com/Sparshini/Retail-Unsupervised-MLmodel
+3. Performed a preliminary data inspection and Data cleaning.
+4. Cohort Analysis – Created monthly cohorts and analyzed active customers and analyzed the retention rate of customers.
+5. Built RFM model and segmented RFM based on scoring by dividing them into quartiles.
+6. Built Clusters using K means clustering.
+7. Prepared the dashboard using Tableau.
 
-2. Healthcare - Classification based on Diabetes
-    https://github.com/Sparshini/Healthcare-Diabetic-Classification
-•	Performed the preliminary data inspection and data cleaning
-•	Checked the data balance and applied SMOTE technique to balance data
-•	Built ML models- Logistic regression, KNN classifier, Support Vector machine, Decision Tree, Random Forest, gradient Boosting, Ada Boosting to predict whether the patients in the dataset have diabetes or not.
-•	Compared the model performances and chose the model SVM with highest accuracy score.
-•	Prepared Classification report, the Sensitivity, Specificity, AUC value for the SVM model
-•	Prepared the dashboard using Tableau.
+8. Healthcare - Classification based on Diabetes
+9. https://github.com/Sparshini/Healthcare-Diabetic-Classification
+10. Performed the preliminary data inspection and data cleaning
+11. Checked the data balance and applied SMOTE technique to balance data
+12. Built ML models- Logistic regression, KNN classifier, Support Vector machine, Decision Tree, Random Forest, gradient Boosting, Ada Boosting to predict whether the patients in the dataset have diabetes or not.
+13. Compared the model performances and chose the model SVM with highest accuracy score.
+14. Prepared Classification report, the Sensitivity, Specificity, AUC value for the SVM model
+15. Prepared the dashboard using Tableau.
 
-3. Book Rental Recommendation 
-     https://github.com/Sparshini/Book-Rental-Recommendation
-•	Performed the preliminary data inspection and data cleaning
-•	Using Cosine Similarity calculated similarity scores for the books (the distances of nearest neighbor)
-•	Defined a function for book recommendation based on similarity scores
+16. Book Rental Recommendation
+17. https://github.com/Sparshini/Book-Rental-Recommendation
+18. Performed the preliminary data inspection and data cleaning
+19. Using Cosine Similarity calculated similarity scores for the books (the distances of nearest neighbor)
+20. Defined a function for book recommendation based on similarity scores
 
 ### Work Experience
 As a Project Planning and Control professional having 10+ years of experience in construction industry with reputed builders in Bangalore, India. Managed Residential & commercial projects at various levels of construction. Prepared and published the Project reports and dashboards periodically for management review
