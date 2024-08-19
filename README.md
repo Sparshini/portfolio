@@ -16,21 +16,21 @@ Malnad College of Engineering, Hassan
 
 
 ### Skills
-**	Data preparation
-**	Data Exploration and Visualization
-**  Machine Learning
-**  Statistical Analysis for Data Science
-**  Project Planning & control
-**  Business process mapping
+*	Data preparation
+*	Data Exploration and Visualization
+* Machine Learning
+* Statistical Analysis for Data Science
+* Project Planning & control
+* Business process mapping
 
 #### Tools
-**	Python
-**	Tableau
-** PostgreSQL
-** Power BI
-**	Microsoft office
-**	Microsoft project & Primavera P6
-**	Microsoft Visio
+* Python
+* Tableau
+* PostgreSQL
+* Microsoft Power BI
+* Microsoft office
+* Microsoft project & Primavera P6
+* Microsoft Visio
 
 ### Projects
 #### Retail - Customer Segmentation using RFM analysis
