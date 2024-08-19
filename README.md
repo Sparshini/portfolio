@@ -1,4 +1,3 @@
-# Aspriring Data Scientist
 #### Python | SQL | Tableau | Power BI | Excel
 
 ### Career Objective
