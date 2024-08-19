@@ -33,7 +33,7 @@ Malnad College of Engineering, Hassan
 
 ### Projects
 #### Retail - Customer Segmentation using RFM analysis
-(https://github.com/Sparshini/Retail-Unsupervised-MLmodel)
+[https://github.com/Sparshini/Retail-Unsupervised-MLmodel]
 1. Performed a preliminary data inspection and Data cleaning.
 2. Cohort Analysis – Created monthly cohorts and analyzed active customers and analyzed the retention rate of customers.
 3. Built RFM model and segmented RFM based on scoring by dividing them into quartiles.
@@ -41,7 +41,7 @@ Malnad College of Engineering, Hassan
 5.  Prepared the dashboard using Tableau.
 
 #### Healthcare - Classification based on Diabetes
-(https://github.com/Sparshini/Healthcare-Diabetic-Classification)
+[https://github.com/Sparshini/Healthcare-Diabetic-Classification]
 1. Performed the preliminary data inspection and data cleaning
 2. Checked the data balance and applied SMOTE technique to balance data
 3. Built ML models- Logistic regression, KNN classifier, Support Vector machine, Decision Tree, Random Forest, gradient Boosting, Ada Boosting to predict whether the patients in the dataset have diabetes or not.
@@ -50,7 +50,7 @@ Malnad College of Engineering, Hassan
 6. Prepared the dashboard using Tableau.
 
 #### Book Rental Recommendation
-(https://github.com/Sparshini/Book-Rental-Recommendation)
+[https://github.com/Sparshini/Book-Rental-Recommendation]
 1. Performed the preliminary data inspection and data cleaning
 2. Using Cosine Similarity calculated similarity scores for the books (the distances of nearest neighbor)
 3. Defined a function for book recommendation based on similarity scores
