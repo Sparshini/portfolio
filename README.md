@@ -33,7 +33,7 @@ Malnad College of Engineering, Hassan
 
 ### Projects
 #### Retail - Customer Segmentation using RFM analysis
-[Project Link](https://github.com/Sparshini/Retail-Unsupervised-MLmodel)
+(https://github.com/Sparshini/Retail-Unsupervised-MLmodel)
 1. Performed a preliminary data inspection and Data cleaning.
 2. Cohort Analysis – Created monthly cohorts and analyzed active customers and analyzed the retention rate of customers.
 3. Built RFM model and segmented RFM based on scoring by dividing them into quartiles.
