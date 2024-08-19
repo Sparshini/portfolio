@@ -57,11 +57,16 @@ https://github.com/Sparshini/Book-Rental-Recommendation
 3. Defined a function for book recommendation based on similarity scores
 
 ### Work Experience
-As a Project Planning and Control professional having 10+ years of experience in construction industry with reputed builders in Bangalore, India. Managed Residential & commercial projects at various levels of construction. Prepared and published the Project reports and dashboards periodically for management review
-Actively took part in organization initiatives such as Six sigma, Gemba Kaizen. As a core team member for ERP implementation (SAP) successfully completed green field Implementation and retrofit project.
-Actively took part in organization Internal audits as Internal auditor as well as auditee
-Mapped Business processes for various departments in the organization 
+As a Project Planning and Control professional, have 10+ years of experience in construction industry with reputed builders in Bangalore, India. Managed Residential & commercial projects at various levels of construction. Prepared and published the Project reports and dashboards periodically for management review.
+
+Actively took part in organization initiatives such as Six sigma, Gemba Kaizen. As a core team member for ERP implementation (SAP) successfully completed green field implementation and retrofit project.
+
+Mapped Business processes for various departments in the organization. 
+
+Actively took part in organization Internal audits as Internal auditor as well as auditee.
+
 Also imparted SAP end user trainings and Excel trainings to the employees in the organization
+
 #### May’15 -Mar’18
 ##### Sr. Manager Project Management at Reddy Structures Pvt.Ltd., Bangalore, India
 #### Sep’13 -May’15
