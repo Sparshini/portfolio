@@ -1,5 +1,5 @@
 # Aspriring Data Scientist
-#### Python|SQL|Tableau|Power BI|Excel
+#### Python | SQL | Tableau | Power BI | Excel
 
 ### Career Objective
 Have gained good exposure to understand various aspects of Data Science through Professional Certificate Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
