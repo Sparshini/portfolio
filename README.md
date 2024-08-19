@@ -28,7 +28,7 @@ Malnad College of Engineering, Hassan
 * Tableau
 * PostgreSQL
 * Microsoft Power BI
-* Microsoft office
+* Microsoft Excel
 * Microsoft project & Primavera P6
 * Microsoft Visio
 
