@@ -23,11 +23,13 @@ Malnad College of Engineering, Hassan
 •	Project Planning & control
 •	Business process mapping
 #### Tools
-•	Python
-•	Tableau
-•	Microsoft office
-•	Microsoft project & Primavera P6
-•	Microsoft Visio
+*	Python
+*	Tableau
+* PostgreSQL
+* Power BI
+*	Microsoft office
+*	Microsoft project & Primavera P6
+*	Microsoft Visio
 
 ### Projects
 #### Retail - Customer Segmentation using RFM analysis
