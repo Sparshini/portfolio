@@ -67,8 +67,8 @@ Actively took part in organization Internal audits as Internal auditor as well a
 
 Also imparted SAP end user trainings and Excel trainings to the employees in the organization
 
-##### May’15 -Mar’18 
-##### Sr. Manager Project Management at Reddy Structures Pvt.Ltd., Bangalore, India
+#####  May’15 -Mar’18 | Sr. Manager Project Management at Reddy Structures Pvt.Ltd., Bangalore, India
+
 
 ##### Sep’13 -May’15
 ##### Manager Business Process at Karle Infra Pvt. Ltd.,     Bangalore, India
